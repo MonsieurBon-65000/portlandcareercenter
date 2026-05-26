@@ -1,34 +1,54 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
+import { topicsFor, allTopics } from "../../lib/topics";
 
+// No visible dates (evergreen). Order newest-first internally for a stable order.
 const posts = (await getCollection("blog")).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
-const fmt = (d: Date) =>
-  d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+const topics = allTopics();
 ---
 
 <Layout title="Articles">
   <h1 class="text-3xl font-semibold tracking-tight mb-2">Articles</h1>
-  <p class="text-[var(--color-muted-foreground)] mb-8">
+  <p class="text-[var(--color-muted-foreground)] mb-6">
     Career transition, job search, and professional growth — from our team of counselors.
   </p>
 
+  {/* Browse by topic */}
+  <div class="mb-8 flex flex-wrap gap-2">
+    {
+      topics.map((t) => (
+        <a
+          href={`/topics/${t.slug}`}
+          class="rounded-full border border-[var(--color-border)] px-3 py-1 text-xs font-medium text-[var(--color-muted-foreground)] hover:border-[var(--color-accent)] hover:text-[var(--color-accent)] transition"
+        >
+          {t.label}
+        </a>
+      ))
+    }
+  </div>
+
   <ul class="divide-y divide-[var(--color-border)]">
     {
-      posts.map((post) => (
-        <li class="py-4">
-          <a href={`/blog/${post.id}`} class="group block">
-            <h2 class="text-lg font-medium group-hover:text-[var(--color-accent)] transition-colors">
-              {post.data.title}
-            </h2>
-            <p class="text-sm text-[var(--color-muted-foreground)] mt-1">
-              {fmt(post.data.date)}
-            </p>
-          </a>
-        </li>
-      ))
+      posts.map((post) => {
+        const t = topicsFor(post.data.categories);
+        return (
+          <li class="py-4">
+            <a href={`/blog/${post.id}`} class="group block">
+              <h2 class="text-lg font-medium group-hover:text-[var(--color-accent)] transition-colors">
+                {post.data.title}
+              </h2>
+              {t.length > 0 && (
+                <p class="text-xs text-[var(--color-muted-foreground)] mt-1">
+                  {t.map((x) => x.label).join(" · ")}
+                </p>
+              )}
+            </a>
+          </li>
+        );
+      })
     }
   </ul>
 </Layout>

@@ -1,0 +1,50 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import { topicsFor, labelForSlug } from "../../lib/topics";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  const bySlug = new Map<string, typeof posts>();
+  for (const p of posts) {
+    for (const t of topicsFor(p.data.categories)) {
+      const arr = bySlug.get(t.slug) ?? [];
+      arr.push(p);
+      bySlug.set(t.slug, arr);
+    }
+  }
+  return [...bySlug.entries()].map(([slug, items]) => ({
+    params: { slug },
+    props: {
+      label: labelForSlug(slug),
+      items: items.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+}
+
+const { label, items } = Astro.props;
+---
+
+<Layout title={label}>
+  <a href="/topics" class="text-sm text-[var(--color-accent)] underline underline-offset-2">
+    ← All topics
+  </a>
+  <h1 class="mt-4 text-3xl font-semibold tracking-tight mb-2">{label}</h1>
+  <p class="text-[var(--color-muted-foreground)] mb-8">
+    {items.length} article{items.length === 1 ? "" : "s"}
+  </p>
+
+  <ul class="divide-y divide-[var(--color-border)]">
+    {
+      items.map((post) => (
+        <li class="py-4">
+          <a href={`/blog/${post.id}`} class="group block">
+            <h2 class="text-lg font-medium group-hover:text-[var(--color-accent)] transition-colors">
+              {post.data.title}
+            </h2>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

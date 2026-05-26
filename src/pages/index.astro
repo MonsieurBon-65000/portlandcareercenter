@@ -1,14 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
-
-const team = [
-  { name: "Aly Anliker, Ed.M", img: "/images/aly.jpg" },
-  { name: "Andrea Killion, MS, LPC", img: "/images/andreaking2014.jpg" },
-  { name: "Anne Bryant, MA, LPC", img: "/images/anne.jpg" },
-  { name: "Aubrie De Clerck, PCC, CPC", img: "/images/aubrie-4-color.jpg" },
-  { name: "Bruce Hazen, MS", img: "/images/brucehazenheadshot.jpg" },
-  { name: "Gail Nicholson, MS", img: "/images/gail.jpg" },
-];
+import { team } from "../data/team";
 ---
 
 <Layout>
@@ -47,13 +39,15 @@ const team = [
         team.map((m) => (
           <div class="text-center">
             <img
-              src={m.img}
+              src={m.photo}
               alt={m.name}
               width="96"
               height="96"
               class="mx-auto h-24 w-24 rounded-full object-cover border border-[var(--color-border)]"
             />
-            <p class="mt-3 text-sm font-medium leading-snug">{m.name}</p>
+            <p class="mt-3 text-sm font-medium leading-snug">
+              {m.name}, {m.credentials}
+            </p>
           </div>
         ))
       }
