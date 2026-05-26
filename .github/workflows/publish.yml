@@ -1,0 +1,44 @@
+name: Publish queued posts
+
+# Drip-publishes archived articles on a schedule: one on the 1st and one on the 15th
+# of each month (~2/month, spaced for a steady cadence). Each run promotes posts from
+# queue/ into the live blog and pushes — which triggers a Cloudflare Pages deploy.
+on:
+  schedule:
+    # 14:00 UTC = ~6–7am Pacific. Runs on the 1st and 15th.
+    - cron: "0 14 1,15 * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many posts to publish now"
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Promote next queued post(s)
+        id: promote
+        run: node scripts/promote-posts.mjs "${{ github.event.inputs.count || '1' }}"
+
+      - name: Commit & push if anything was published
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "PCC Publisher"
+            git config user.email "actions@github.com"
+            git add -A
+            git commit -m "Publish queued post(s): ${{ steps.promote.outputs.promoted }} (${{ steps.promote.outputs.remaining }} left in queue)"
+            git push
+          else
+            echo "Nothing to publish — queue is empty."
+          fi

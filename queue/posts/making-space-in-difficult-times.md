@@ -1,0 +1,18 @@
+---
+title: "Making Space in Difficult Times"
+slug: making-space-in-difficult-times
+date: "2018-03-06 06:30:43"
+categories: ["career-development-in-place", "career-transition-strategies", "performance-on-the-job", "personal-growth-and-healing", "self-assessment", "support-systems"]
+---
+
+![ines-alvarez-fdez-488293-unsplash](/images/ines-alvarez-fdez-488293-unsplash.jpg) _image via unsplash -_ _Ines Álvarez Fdez_[  
+](https://unsplash.com/@powwpic)  When there have been troubling situations at work (a Performance Improvement Plan, harassment, layoffs), it can be hard to find a neutral place from which to make decisions. Should you quit? Should you stick it out? Often there is a pull to take action to get the pain of the situation to stop.   While sometimes an immediate decision is necessary, there is often time to take a day or more to understand what you need, what the best next step for you is. Creating room in your head, heart and gut (intuition) can give you a way to see a situation more clearly and inform your direction, whether you stay or go.   The idea is to create enough room that you can make a decision from a clear and calm place. **Tips for finding space****:**
+
+-   **Talk to a counselor.** It’s crucial that you feel heard, and a manager, colleagues or even friends or family may have a hard time being objective listener. Sometimes it takes talking to someone who can hear your experience from a neutral perspective to provide the kind of validation and support you need.
+-   **Read about endings in “Transitions” by William Bridges.** Bridges explains that understanding endings is necessary in order to make a clean beginning. There tends to be patterns in how we do our endings, so completing the exercises in this book and looking for themes can be helpful to open our awareness, and make plans for how we might complete something so as not to repeat it.
+-   **Considering taking time off.** Using vacation time, exploring leave options, take walks during the day. Wherever you can get some space, take it.
+-   **Commit to stop talking about the situation for a period of time.** It’s hard, I know! It’s a very useful exercise, however. What comes up when you stop replaying, justifying or venting? Is there a voice inside that has something else to say?
+-   **Get in touch with what your deal breakers are.** Only you will know your breaking point. How will you know for sure it was time to leave? Try taking a values assessment, like the free VIA Survey, to identify what needs you must get met.
+-   **Get a check-up.** Especially important if you are repeatedly or more seriously feeling ill, but this can be helpful for anyone. Checking in with your doctor can be helpful during stressful times.
+
+Many clients have found that when they are able to identify and do even one thing that brings more space to the situation, an answer comes to them. It may not be the direction they thought they would make, but relief follows. Try not to judge what works – and try not to judge what might not! Take heart, and take one step at a time. Space will follow.   ![aubrieccpp48](/images/aubrieccpp48.jpeg)**Aubrie De Clerck, CPC, PCC** [www.coachingforclarity.net](https://www.coachingforclarity.net) aubrie@coachingforclarity.net 503-810-2907 Aubrie is a Career Development and Transition Coach, with her own private practice in Portland. Her career history spans corporate, non-profit and self employment, giving her wide perspective on the world of work. Aubrie is known for being highly inspirational and deeply practical, and loves bringing these qualities to sessions with groups and individuals. Most of all, she is passionate about helping people of all ages and phases of life get the most out of their work life.
