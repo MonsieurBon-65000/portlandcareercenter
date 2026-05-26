@@ -1,0 +1,76 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Portland Career Center",
+  description = "Career counseling, transition, and job-search resources from a team of experienced career counselors in Portland, Oregon.",
+} = Astro.props;
+
+const fullTitle = title === "Portland Career Center" ? title : `${title} — Portland Career Center`;
+
+const nav = [
+  { href: "/", label: "Home" },
+  { href: "/about", label: "About" },
+  { href: "/bios", label: "Our Team" },
+  { href: "/blog", label: "Articles" },
+];
+const here = Astro.url.pathname.replace(/\/$/, "") || "/";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{fullTitle}</title>
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <header class="border-b border-[var(--color-border)]">
+      <div class="mx-auto max-w-3xl px-6 py-4 flex items-center justify-between gap-4">
+        <a href="/" class="font-semibold tracking-tight text-[var(--color-foreground)]">
+          Portland <span class="text-[var(--color-accent)]">Career Center</span>
+        </a>
+        <nav class="flex gap-5 text-sm">
+          {
+            nav.map((item) => (
+              <a
+                href={item.href}
+                class:list={[
+                  "hover:text-[var(--color-accent)] transition-colors",
+                  here === item.href.replace(/\/$/, "") || (item.href === "/" && here === "/")
+                    ? "text-[var(--color-accent)] font-medium"
+                    : "text-[var(--color-muted-foreground)]",
+                ]}
+              >
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main class="flex-1 mx-auto w-full max-w-3xl px-6 py-10">
+      <slot />
+    </main>
+
+    <footer class="border-t border-[var(--color-border)] mt-12">
+      <div class="mx-auto max-w-3xl px-6 py-8 text-sm text-[var(--color-muted-foreground)] flex flex-col sm:flex-row gap-2 sm:justify-between">
+        <p>© {new Date().getFullYear()} Portland Career Center · Portland, Oregon</p>
+        <p>
+          Looking for a counselor?
+          <a href="https://aperfectcareer.com" class="text-[var(--color-accent)] underline underline-offset-2">
+            Find one at A Perfect Career
+          </a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
