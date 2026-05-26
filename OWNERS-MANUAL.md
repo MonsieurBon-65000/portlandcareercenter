@@ -124,14 +124,49 @@ To rename a topic or add a new one, edit `src/lib/topics.ts`.
 
 ---
 
+## Automatic publishing (the drip schedule)
+
+The site publishes archived articles for you on a schedule — no action needed. Here's how it works:
+
+- The 160 not-yet-live articles (and their images) sit in the repo's **`queue/`** folder. Astro
+  ignores this folder, so queued posts are *not* on the live site until they're promoted.
+- A **GitHub Action** (`.github/workflows/publish.yml`) runs automatically on the **1st and 15th of
+  every month** (~6–7am Pacific). Each run promotes the **oldest** queued post into the live blog,
+  commits, and pushes — which triggers a Cloudflare deploy. That's **2 posts per month**, spaced out.
+- At this rate the queue lasts about **6–7 years**. When the queue empties, the Action simply does
+  nothing.
+
+### Publish one (or several) right now
+
+You don't have to wait for the schedule. On GitHub:
+
+1. Go to the repo → **Actions** tab → **"Publish queued posts"** (left sidebar).
+2. Click **"Run workflow"**, optionally set how many to publish (default 1), and confirm.
+
+Or from the command line: `cd site && node scripts/promote-posts.mjs 3` then commit and push.
+
+### Change the cadence
+
+Edit the `cron` line in `.github/workflows/publish.yml`:
+- One per month (1st only): `cron: "0 14 1 * *"`
+- Weekly (every Monday): `cron: "0 14 * * 1"`
+- To publish **more than one per run**, change the default `count` and/or the number passed to
+  `promote-posts.mjs` in the workflow.
+
+### Choose what publishes next / reorder the queue
+
+Posts are promoted **oldest-date-first**. To bump a specific article to the front, open its file in
+`queue/posts/` and change the `date:` in its frontmatter to an earlier date. To skip one entirely,
+delete it from `queue/posts/`. To preview everything in the queue, see
+`../CCPP/import/out/ALL-POSTS.md`.
+
 ## Dates & SEO
 
 - Visible dates are **hidden** everywhere, so content reads as evergreen.
 - For search engines, each page is listed in the **sitemap** (`/sitemap-index.xml`) with its date,
   generated automatically on every build.
-- **Tip for SEO:** publishing a few archived articles on a regular cadence (e.g. weekly) signals an
-  active site to Google and steadily grows your search footprint. You don't have to publish them
-  all at once.
+- The drip schedule above is itself an SEO strategy: a steady stream of fresh, indexable pages
+  signals an active site to Google and grows your search footprint over time.
 
 ---
 
@@ -151,7 +186,9 @@ To rename a topic or add a new one, edit `src/lib/topics.ts`.
 | I want to… | Edit this |
 |---|---|
 | Add/edit an article | `src/content/blog/*.md` |
-| Publish archived posts | `../CCPP/import/import-selected.mjs` (then re-run) |
+| Publish queued posts now | Actions tab → "Publish queued posts" → Run workflow |
+| Change publish cadence | `.github/workflows/publish.yml` (the `cron` line) |
+| Reorder/skip the queue | `queue/posts/*.md` (edit `date:` or delete) |
 | Edit the team | `src/data/team.ts` |
 | Edit About / Find a Counselor | `src/pages/about.md`, `src/pages/choosing-a-counselor.md` |
 | Add an image | `public/images/` |
