@@ -80,7 +80,7 @@ export const team: Member[] = [
   },
   {
     name: "Aaron Good",
-    credentials: "MS, CRC, LPC",
+    credentials: "MS, CRC, LPC, CCC",
     photo: "/images/aaron_smaller150x150-e1539039407624.jpg",
     practice: "Trailhead Counseling, LLC",
     website: "trailheadcounseling.net",
