@@ -5,14 +5,51 @@ date: "2012-12-12 16:13:44"
 categories: ["career-transition-strategies", "job-search", "personal-branding"]
 ---
 
-Resume content has changed somewhat in the last few years. One of the latest being the importance of the use of keywords. Most companies use applicant tracking software (aka: gatekeeper), which scans resumes for chosen keywords relating to skills, training, degrees, job titles and experience. If your resume contains the right keywords and enough of them, your resume is more likely to get through the gatekeeper to a set of human eyes. Currently 100% of large companies scan for keywords, 80% of mid-size companies, and approximately 10% of small companies. What are Keywords? Keywords are specific words or phrases that job seekers use to search for jobs and that employers use to find the right candidates. Keywords are used as search criteria in the same way you do research on the Internet. The more keywords you use that an employer is looking for, the more likely your resume will come up for consideration in resume database search results.![keywords](/images/keywords.jpg) For example, if you type the word "retail" into a job search engine, you'll bring up thousands of job ads. But if you type the phrase "merchandising manager," you're going to get fewer and more useful results. The same goes for employers trying to find top candidates to interview. As you may know, most employers are seeking to hire specialists, not generalists. Think of the specialized keywords that describe what you can do, what you have done, and what employers are looking for, based on the keywords they use in their job ads. I recommend you use these same keywords and similar words if they reflect your background. The following link provides a sampling of keywords for a few industries: [http://www.foster.washington.edu/corporations/mba\_careerservices/Documents/Key%20Word%20list.pdf](http://www.foster.washington.edu/corporations/mba_careerservices/Documents/Key%20Word%20list.pdf) The keywords most relevant to your job search are the words and phrases someone would use to describe your next position. Think of keywords as jargon or "buzzwords" used by insiders in a profession or industry. It's how they describe themselves and others in their profession. These are the terms that people writing job descriptions often will use as part of the job requirements in addition to preferred qualifications. Keywords are nouns and noun phrasesused by recruiters searching through applicant databases and job candidate sites for resumes meeting the requirements on job descriptions. For example, the words "Assistant" and "Manager" are nouns. "Administrative Assistant" and "Marketing Manager" are noun phrases. In the past, job applicants focused on "action verbs" in their resumes. For example, "_Managed_ a team of..." or "_Created_ and _implemented_ a marketing campaign...”  Action verbs are still very important because they describe youraccomplishments. However, you need morethan action verbs if you plan on it being noticed regularly in cyberspace today. Think of the education and experience you have andthe job you want, and then brainstorm the nouns and noun phrases that would likely be used in the job description. Read job postings of positions you are interested in to gather noun and noun phrase keywords used to describe the skills, experience, and education required and/or preferred that you possess. Developing and Adding Your Keywords Make a list of the following:
+Resume content has changed somewhat in the last few years. One of the latest being the importance of the use of keywords. Most companies use applicant tracking software (aka: gatekeeper), which scans resumes for chosen keywords relating to skills, training, degrees, job titles and experience. If your resume contains the right keywords and enough of them, your resume is more likely to get through the gatekeeper to a set of human eyes.
 
+Currently 100% of large companies scan for keywords, 80% of mid-size companies, and approximately 10% of small companies.
+
+What are Keywords?
+
+Keywords are specific words or phrases that job seekers use to search for jobs and that employers use to find the right candidates. Keywords are used as search criteria in the same way you do research on the Internet. The more keywords you use that an employer is looking for, the more likely your resume will come up for consideration in resume database search results.![keywords](/images/keywords.jpg)
+
+For example, if you type the word "retail" into a job search engine, you'll bring up thousands of job ads. But if you type the phrase "merchandising manager," you're going to get fewer and more useful results. The same goes for employers trying to find top candidates to interview. As you may know, most employers are seeking to hire specialists, not generalists. Think of the specialized keywords that describe what you can do, what you have done, and what employers are looking for, based on the keywords they use in their job ads. I recommend you use these same keywords and similar words if they reflect your background.
+
+The following link provides a sampling of keywords for a few industries: [http://www.foster.washington.edu/corporations/mba\_careerservices/Documents/Key%20Word%20list.pdf](http://www.foster.washington.edu/corporations/mba_careerservices/Documents/Key%20Word%20list.pdf)
+
+The keywords most relevant to your job search are the words and phrases someone would use to describe your next position. Think of keywords as jargon or "buzzwords" used by insiders in a profession or industry. It's how they describe themselves and others in their profession. These are the terms that people writing job descriptions often will use as part of the job requirements in addition to preferred qualifications.
+
+Keywords are nouns and noun phrasesused by recruiters searching through applicant databases and job candidate sites for resumes meeting the requirements on job descriptions. For example, the words "Assistant" and "Manager" are nouns. "Administrative Assistant" and "Marketing Manager" are noun phrases.
+
+In the past, job applicants focused on "action verbs" in their resumes. For example, "_Managed_ a team of..." or "_Created_ and _implemented_ a marketing campaign...”  Action verbs are still very important because they describe youraccomplishments. However, you need morethan action verbs if you plan on it being noticed regularly in cyberspace today.
+
+Think of the education and experience you have andthe job you want, and then brainstorm the nouns and noun phrases that would likely be used in the job description. Read job postings of positions you are interested in to gather noun and noun phrase keywords used to describe the skills, experience, and education required and/or preferred that you possess.
+
+Developing and Adding Your Keywords
+
+Make a list of the following:  
+
+  
 -   The job title of the position that you want next
+  
 -   Standard job titles that are used for your current and previous jobs, particularly if current (or former) employer(s) used non-standard titles
+  
 -   Job and industry-specific skills that you use or are qualified to use because of      education and experience (some that come to mind include Spanish, Suicide Prevention, Database Management)
+  
 -   Software and hardware that you use or have been trained to use, particularly if it's unique to the position you are seeking (Adobe Illustrator, Sharepoint, MS Outlook)
+  
 -   Professional organizations that you have joined
+  
 -   Applicable education that you have (degrees, course work completed, etc.)
+  
 -   Certifications, licenses, or other proof of professional or industry knowledge you have achieved
+  
 
-For keywords often in the form of an acronym, include both the acronyms and the words or phrase for that acronymin the body of your resume. This will increase the probability that your resume will appear in the search results whether the recruiter searches on the acronym or the phrase that it represents. Be inconsistent but complete**_._** For example, if I were looking for a job as a career counselor, I would include all versions of the term – career advisor, vocational counselor, career consultant, career specialist. Consider asking for feedback from former supervisors, colleagues, family and friends. If you feel more assistance is needed, consider hiring a career counselor or certified resume writer. ![Andrea Killion](/images/andrea48.jpg)**Andrea Killion, MS, NCC, MCC** Careerful Counseling Services [info@careerful.com](mailto:info@careerful.com) [www.careerful.com](http://www.careerful.com) 503-997-9506 Andrea specializes in assisting clients achieve rewarding employment. She serves adults from all industries and stages who are unemployed, employed or somewhere in between. Unsure what career to pursue? Feel stuck in your job? Need to enhance your interview skills? Contact Andrea today.
+  
+For keywords often in the form of an acronym, include both the acronyms and the words or phrase for that acronymin the body of your resume. This will increase the probability that your resume will appear in the search results whether the recruiter searches on the acronym or the phrase that it represents.
+
+Be inconsistent but complete**_._** For example, if I were looking for a job as a career counselor, I would include all versions of the term – career advisor, vocational counselor, career consultant, career specialist.
+
+Consider asking for feedback from former supervisors, colleagues, family and friends. If you feel more assistance is needed, consider hiring a career counselor or certified resume writer.
+
+![Andrea Killion](/images/andrea48.jpg)**Andrea Killion, MS, NCC, MCC** Careerful Counseling Services [info@careerful.com](mailto:info@careerful.com) [www.careerful.com](http://www.careerful.com) 503-997-9506 Andrea specializes in assisting clients achieve rewarding employment. She serves adults from all industries and stages who are unemployed, employed or somewhere in between. Unsure what career to pursue? Feel stuck in your job? Need to enhance your interview skills? Contact Andrea today.

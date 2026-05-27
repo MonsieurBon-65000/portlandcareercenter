@@ -5,10 +5,32 @@ date: "2012-10-15 11:12:04"
 categories: ["career-transition-strategies"]
 ---
 
-**![Aly Anliker](/images/aly48.jpg "aly")Aly Anliker, Ed.M**
+## ![Aly Anliker](/images/aly48.jpg "aly")Aly Anliker, Ed.M
 
 alyanliker@hotmail.com
 
 503-891-1108
 
-Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit. **Lost in Career Transition** First the cake arrives then the flowers, lovely bouquets to celebrate an employee’s recent retirement after 26 years with the same organization. I wonder about this retirement ritual that for many of us is a thing of the past. Currently, the average worker’s tenure with an employer is between four and five years. I review resumes daily from people with even fewer years of service. What has been lost? In my own long history of employment, about thirty years now, I have had a handful of parties when I chose to leave a company. My colleagues wished me well and made me promise to keep in touch. I felt celebrated and in most of those situations, felt that my contribution was valued. This retiring employee must have felt the same thing and maybe a little fear walking into the unknown and the next stage of her life. We transition much more frequently now, whether by choice or by design. Some of us in contract assignments literally work ourselves out of work. I will never retire from a company after 26 years. I may or may not have a retirement party. In fact, I may never completely retire until forced to by age or death. Hence, I’ve had to learn all I can about finding employment and have, in turn, passed what I know along to my clients. What new rituals can we give ourselves to honor our work contributions and stages in our careers? Here are a few ideas: • Celebrate the beginning of a new assignment or the ending of one with a few friends • Mark your transitions by documenting and sharing your accomplishments with your network • Recognize that with each new work experience you are learning more skills and learning more about yourself • When you create a new workspace either at home or somewhere else, bring a few treasured mementos to remind you of what’s important to you. Even though your place of work may change, the ethics you follow and your professional values remain in place • You have a chance to make even more friendships that can last a lifetime Think about what might have meaning for you. Career Counselors would agree on the importance of remembering and documenting accomplishments. Yet there may be more we need to do for ourselves as we honor the parts of us that are lost in transition.
+Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.
+
+**Lost in Career Transition**  
+First the cake arrives then the flowers, lovely bouquets to celebrate an employee’s recent retirement after 26 years with the same organization.
+
+I wonder about this retirement ritual that for many of us is a thing of the past. Currently, the average worker’s tenure with an employer is between four and five years. I review resumes daily from people with even fewer years of service. What has been lost?
+
+In my own long history of employment, about thirty years now, I have had a handful of parties when I chose to leave a company. My colleagues wished me well and made me promise to keep in touch. I felt celebrated and in most of those situations, felt that my contribution was valued. This retiring employee must have felt the same thing and maybe a little fear walking into the unknown and the next stage of her life.
+
+We transition much more frequently now, whether by choice or by design. Some of us in contract assignments literally work ourselves out of work.
+
+I will never retire from a company after 26 years. I may or may not have a retirement party. In fact, I may never completely retire until forced to by age or death. Hence, I’ve had to learn all I can about finding employment and have, in turn, passed what I know along to my clients.
+
+What new rituals can we give ourselves to honor our work contributions and stages in our careers?
+
+Here are a few ideas:  
+• Celebrate the beginning of a new assignment or the ending of one with a few friends  
+• Mark your transitions by documenting and sharing your accomplishments with your network  
+• Recognize that with each new work experience you are learning more skills and learning more about yourself  
+• When you create a new workspace either at home or somewhere else, bring a few treasured mementos to remind you of what’s important to you. Even though your place of work may change, the ethics you follow and your professional values remain in place  
+• You have a chance to make even more friendships that can last a lifetime
+
+Think about what might have meaning for you. Career Counselors would agree on the importance of remembering and documenting accomplishments. Yet there may be more we need to do for ourselves as we honor the parts of us that are lost in transition.

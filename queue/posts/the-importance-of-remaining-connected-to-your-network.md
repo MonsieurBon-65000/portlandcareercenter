@@ -5,4 +5,23 @@ date: "2016-11-03 15:59:42"
 categories: ["networking"]
 ---
 
-![bee](/images/bee.jpg) ![pixabay](/images/pixabay.jpg) This morning I woke up thinking of Dr. Frank Wesley, my former Psychology Professor at Portland State. He was an avid beekeeper and one of the most influential teachers I’ve ever had. Not so much because of what he said or the questions he asked of us, but because of his gentle and kind way. I remember he invited some of us students to his home in Northwest Portland. That was when I noticed a tattoo on his wrist and realized he was a Holocaust survivor. During his lectures with us, I don’t remember him talking about it. I do remember being shocked into silence when I saw the row of numbers. I thought about what he must have endured. Later I learned that he survived Buchenwald, one of the worst concentration camps in Germany. Now I discover that he has passed, just last May of this year. Though he was part of my network, I have no more chance to reach out. However, among the rich legacy he leaves of family, friends and giving, he has published books and there is a movie about him called “Frank’s Song”. Luckily, I can still hear his voice. At the time he was my teacher, he retained a slight German accent. I remember that he would talk about various psychological and life topics and then he would say, “It’s crazy”. It was a phrase he used often. And when he would say it, his voice would go really high. I loved hearing that and have found it’s the answer to many unexplained mysteries of the human condition. I’m sorry I lost touch with Dr. Wesley. The most important thing is our connections and our connection to each other. It’s not so crazy after all. And as for the bee, I hope he survives somehow, like Dr. Wesley did. I will let the next one in – you just never know. ![heart](/images/heart-2.jpg) ![pixabay](/images/pixabay.jpg)   **![Aly Anliker](/images/aly48.jpg)Aly Anliker, Ed.M** alyanliker@hotmail.com 503-891-1108 Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.
+![bee](/images/bee.jpg) ![pixabay](/images/pixabay.jpg)
+
+This morning I woke up thinking of Dr. Frank Wesley, my former Psychology Professor at Portland State. He was an avid beekeeper and one of the most influential teachers I’ve ever had. Not so much because of what he said or the questions he asked of us, but because of his gentle and kind way.
+
+I remember he invited some of us students to his home in Northwest Portland. That was when I noticed a tattoo on his wrist and realized he was a Holocaust survivor. During his lectures with us, I don’t remember him talking about it. I do remember being shocked into silence when I saw the row of numbers. I thought about what he must have endured. Later I learned that he survived Buchenwald, one of the worst concentration camps in Germany.
+
+Now I discover that he has passed, just last May of this year. Though he was part of my network, I have no more chance to reach out. However, among the rich legacy he leaves of family, friends and giving, he has published books and there is a movie about him called “Frank’s Song”.
+
+Luckily, I can still hear his voice. At the time he was my teacher, he retained a slight German accent. I remember that he would talk about various psychological and life topics and then he would say, “It’s crazy”. It was a phrase he used often. And when he would say it, his voice would go really high. I loved hearing that and have found it’s the answer to many unexplained mysteries of the human condition. I’m sorry I lost touch with Dr. Wesley. The most important thing is our connections and our connection to each other. It’s not so crazy after all.
+
+And as for the bee, I hope he survives somehow, like Dr. Wesley did. I will let the next one in – you just never know.  
+![heart](/images/heart-2.jpg)
+
+![pixabay](/images/pixabay.jpg)
+
+**![Aly Anliker](/images/aly48.jpg)Aly Anliker, Ed.M  
+**alyanliker@hotmail.com  
+503-891-1108
+
+Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.

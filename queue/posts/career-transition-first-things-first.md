@@ -5,13 +5,47 @@ date: "2011-08-17 09:46:33"
 categories: ["self-assessment"]
 ---
 
-![Aly Anliker](/images/aly48.jpg "Aly 48")**Aly Anliker, Ed.M** alyanliker@hotmail.com 503-891-1108 Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit. **First Things First:  Steps towards Finding a Job, Career or Calling**, by Aly Anliker Self Assessment is an important first step in launching a job search, determining your ideal career or shifting careers. Typically when you assess yourself, you are seeking to uncover your strengths, accomplishments, interests, skills and values.  A good assessment process should assist you with answers to the following questions:
+![Aly Anliker](/images/aly48.jpg "Aly 48")**Aly Anliker, Ed.M** alyanliker@hotmail.com 503-891-1108 Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.
 
+**First Things First:  Steps towards Finding a Job, Career or Calling**, by Aly Anliker
+
+Self Assessment is an important first step in launching a job search, determining your ideal career or shifting careers.
+
+Typically when you assess yourself, you are seeking to uncover your strengths, accomplishments, interests, skills and values.  A good assessment process should assist you with answers to the following questions:  
+
+  
 -   What am I good at?
+  
 -   What do I most enjoy doing?
+  
 -   What are my greatest strengths?
+  
 -   What are some words that describe me, how do others describe me?
+  
 -   What is important to me at this time in my life?
+  
 -   What have been my major accomplishments?
+  
 
-Equipped with this new information, and more sure of who you are and what you want, you may ask, what are employers going to be most interested in about me?  Where does what I have to offer meet with marketplace needs?  The answer to this question is the sweet spot for getting hired and developing within your career. In an ever-changing market, individuals who are most successful in obtaining and keeping work are those that can identify their talents and align those talents with marketplace needs. But where to begin? First, gather up everything you already have that speaks to who you are and what you can do.  These items might include previous resumes, copies of your performance reviews, recommendations, and customer testimonials. Draw your character traits or words that describe you from any of the above information or feedback from friends and colleagues. As you review all of this information, do you notice any recurring comments, words or themes? Next, assess your skills – your goal is to generate your top 10 to 15.   Onet Online at [http://www.onetonline.org/](http://www.onetonline.org/) is a great resource that not only helps you assess your abilities, but research those you may need for a particular position that interests you. Based on your top skills and abilities, you can begin to develop accomplishments for your resume that showcase what you offer.  The Riley Guide has a helpful resume section with information on accomplishments for the resume as well as other resume resources:  [http://rileyguide.com/resprep.html#tips](http://rileyguide.com/resprep.html#tips) . As you are making career decisions, you may also want to complete a values assessment to identify what is important to you at this juncture in your life.  Your goal is to identify your top five to ten values.  Based on these values, you can begin to uncover what types of jobs, companies and industries you want to target.  The Career Intelligence website offers a values assessment.  They do require that you register prior to completing this assessment:  [http://www.career-intelligence.com/noaccess.asp](http://www.career-intelligence.com/noaccess.asp) . You can probably think of a number of activities that interest you, but to remind yourself of the full range of your interests and which of those interests are important to you at work, you can complete the Campbell Interest and Skill Survey, [https://www.profiler.com/cgi-bin/ciss/moreform.pl?client=ncs&page=intro](https://www.profiler.com/cgi-bin/ciss/moreform.pl?client=ncs&page=intro).   There is a fee to complete this inventory. The Self Assessment process can be fun as you are reminded of all that you have to offer.  Allow yourself time to invest in this process.  Ask others for feedback about you.  Sometimes your path to job and career success is as simple as knowing what you offer then finding a need and filling it.
+  
+Equipped with this new information, and more sure of who you are and what you want, you may ask, what are employers going to be most interested in about me?  Where does what I have to offer meet with marketplace needs?  The answer to this question is the sweet spot for getting hired and developing within your career.
+
+In an ever-changing market, individuals who are most successful in obtaining and keeping work are those that can identify their talents and align those talents with marketplace needs.
+
+But where to begin?
+
+First, gather up everything you already have that speaks to who you are and what you can do.  These items might include previous resumes, copies of your performance reviews, recommendations, and customer testimonials.
+
+Draw your character traits or words that describe you from any of the above information or feedback from friends and colleagues.
+
+As you review all of this information, do you notice any recurring comments, words or themes?
+
+Next, assess your skills – your goal is to generate your top 10 to 15.   Onet Online at [http://www.onetonline.org/](http://www.onetonline.org/) is a great resource that not only helps you assess your abilities, but research those you may need for a particular position that interests you.
+
+Based on your top skills and abilities, you can begin to develop accomplishments for your resume that showcase what you offer.  The Riley Guide has a helpful resume section with information on accomplishments for the resume as well as other resume resources:  [http://rileyguide.com/resprep.html#tips](http://rileyguide.com/resprep.html#tips) .
+
+As you are making career decisions, you may also want to complete a values assessment to identify what is important to you at this juncture in your life.  Your goal is to identify your top five to ten values.  Based on these values, you can begin to uncover what types of jobs, companies and industries you want to target.  The Career Intelligence website offers a values assessment.  They do require that you register prior to completing this assessment:  [http://www.career-intelligence.com/noaccess.asp](http://www.career-intelligence.com/noaccess.asp) .
+
+You can probably think of a number of activities that interest you, but to remind yourself of the full range of your interests and which of those interests are important to you at work, you can complete the Campbell Interest and Skill Survey, [https://www.profiler.com/cgi-bin/ciss/moreform.pl?client=ncs&page=intro](https://www.profiler.com/cgi-bin/ciss/moreform.pl?client=ncs&page=intro).   There is a fee to complete this inventory.
+
+The Self Assessment process can be fun as you are reminded of all that you have to offer.  Allow yourself time to invest in this process.  Ask others for feedback about you.  Sometimes your path to job and career success is as simple as knowing what you offer then finding a need and filling it.

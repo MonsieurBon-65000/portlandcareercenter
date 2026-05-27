@@ -5,20 +5,50 @@ date: "2014-08-05 09:06:46"
 categories: ["career-development-in-place", "self-assessment"]
 ---
 
-![stress success](/images/stress-success.jpg)Let’s face it, work can be stressful. Depending on one’s level of resilience and coping strategies learned over time, a person’s ability to manage stress effectively varies. This stress exists no matter which line of work, industry or company you are at. The Merriam-Webster Dictionary defines stress as a _state of mental tension and worry caused by problems in your life, work, etc. and something that causes strong feelings of worry or anxiety._ What level of stress are you currently experiencing in relation to your work? In reading the tips below, think about whether you are already engaging in these or similar activities. If so, what other stress reduction techniques may be appropriate to reduce your stress? Is stress from your personal life following you to work? Or perhaps these tips simply don’t work for you and it is time to take a deeper look at what triggers at work cause your stress?
+![stress success](/images/stress-success.jpg)Let’s face it, work can be stressful. Depending on one’s level of resilience and coping strategies learned over time, a person’s ability to manage stress effectively varies. This stress exists no matter which line of work, industry or company you are at. The Merriam-Webster Dictionary defines stress as a _state of mental tension and worry caused by problems in your life, work, etc. and something that causes strong feelings of worry or anxiety._
 
-1.  **Wake up on time and get a head start to work each day.![sleepy](/images/sleepy.jpg)**
+What level of stress are you currently experiencing in relation to your work? In reading the tips below, think about whether you are already engaging in these or similar activities. If so, what other stress reduction techniques may be appropriate to reduce your stress? Is stress from your personal life following you to work? Or perhaps these tips simply don’t work for you and it is time to take a deeper look at what triggers at work cause your stress?  
 
-You may have heard the proverb “the early bird gets the worm”. When you wake up late you’re already scattered and in a hurry, starting off under some stress, and often without a good plan for the day. People who wake up early and plan their day are typically more productive. If you get up late you probably come home late. How does this affect your personal life? Practice getting to work early for a period of one month and see if this is a routine you find beneficial to continue.
+  
+2.  **Wake up on time and get a head start to work each day.![sleepy](/images/sleepy.jpg)**
+  
 
-2.  **Do not skip lunch.**
+  
+You may have heard the proverb “the early bird gets the worm”. When you wake up late you’re already scattered and in a hurry, starting off under some stress, and often without a good plan for the day. People who wake up early and plan their day are typically more productive. If you get up late you probably come home late. How does this affect your personal life? Practice getting to work early for a period of one month and see if this is a routine you find beneficial to continue.  
 
-I am amazed at how many people I come across both personally and professionally who do not eat lunch on a regular basis. From past experience of skipping lunch, the loss of energy caused some errors in my work and kept me at work longer. I was likely not as pleasant to be around! According to [The Risks and Rewards of Skipping Meals](http://well.blogs.nytimes.com/2007/12/26/the-risks-and-rewards-of-skipping-meals/?_php=true&_type=blogs&_r=0), researchers found that skipping meals during the day and eating one large meal in the evening resulted in potentially risky metabolic changes. Schedule time in your work day to eat and stick to your schedule. One idea is to find a colleague who eats regularly to use as a role model. See if this person would be open to eating lunch together. Another idea is to find a colleague who is skipping lunches and both commit to eating lunch together, holding each other accountable.
+  
+3.  **Do not skip lunch.**
+  
 
-3.  **Learn to say “no” if a task is not a priority.**
+  
+I am amazed at how many people I come across both personally and professionally who do not eat lunch on a regular basis. From past experience of skipping lunch, the loss of energy caused some errors in my work and kept me at work longer. I was likely not as pleasant to be around! According to [The Risks and Rewards of Skipping Meals](http://well.blogs.nytimes.com/2007/12/26/the-risks-and-rewards-of-skipping-meals/?_php=true&_type=blogs&_r=0), researchers found that skipping meals during the day and eating one large meal in the evening resulted in potentially risky metabolic changes. Schedule time in your work day to eat and stick to your schedule. One idea is to find a colleague who eats regularly to use as a role model. See if this person would be open to eating lunch together. Another idea is to find a colleague who is skipping lunches and both commit to eating lunch together, holding each other accountable.  
 
-It is common for workers to take on too much. After all, we don’t want to let our supervisors and co-workers down. Given how competitive our society is, there is a lot of pressure to perform at a pace that makes us feel successful. Analyze in the coming weeks when you take on more tasks than you can handle in a productive manner. Would it have been healthier and more productive to be more selective in choosing tasks to add to your list of duties? When saying ‘no' to your manager, realize that she/he may not have a realistic understanding of your existing workload. The most effective tactic is to avoid confronting your manager about your overall workload. Instead, restrict your negotiation to a specific task or project that is taking up too much of your time. When saying ‘no’ make sure that you do not fall into the trap of being over-apologetic. Say what you need to in a concise way so that it doesn't sound like you are trying to make excuses to avoid taking on the extra work. You can say “no” in a positive way by focusing on what you can do. For example, “I can complete those two reports and the third one I will complete in three days.” Stand your ground. If people get the impression that they can talk you into it then they may persist until you give in. Don't. Saying ‘no' will get easier as you go along, just remember to think it through so that the person who is being refused can see that you have seriously considered their request. Stay tuned for more tips on decreasing work stress. _“Working hard and working smart sometimes can be two different things.” – Byron Dorgan_
+  
+4.  **Learn to say “no” if a task is not a priority.**
+  
+
+  
+It is common for workers to take on too much. After all, we don’t want to let our supervisors and co-workers down. Given how competitive our society is, there is a lot of pressure to perform at a pace that makes us feel successful. Analyze in the coming weeks when you take on more tasks than you can handle in a productive manner. Would it have been healthier and more productive to be more selective in choosing tasks to add to your list of duties?
+
+When saying ‘no' to your manager, realize that she/he may not have a realistic understanding of your existing workload. The most effective tactic is to avoid confronting your manager about your overall workload. Instead, restrict your negotiation to a specific task or project that is taking up too much of your time. When saying ‘no’ make sure that you do not fall into the trap of being over-apologetic. Say what you need to in a concise way so that it doesn't sound like you are trying to make excuses to avoid taking on the extra work. You can say “no” in a positive way by focusing on what you can do. For example, “I can complete those two reports and the third one I will complete in three days.”
+
+Stand your ground. If people get the impression that they can talk you into it then they may persist until you give in. Don't.
+
+Saying ‘no' will get easier as you go along, just remember to think it through so that the person who is being refused can see that you have seriously considered their request.
+
+Stay tuned for more tips on decreasing work stress.
+
+_“Working hard and working smart sometimes can be two different things.” – Byron Dorgan_  
 
 ###### Photo of child courtesy of imgkid.com.
 
-  **![andreaking482014](/images/andreaking482014.jpg)Andrea King, MS, NCC, MCC** Careerful Counseling Services 503-997-9506 [aking@careerful.com](mailto:aking@careerful.com) [www.careerful.com](http://www.careerful.com) Andrea assists clients in successfully achieving rewarding employment. She works with a diverse array of adults from all industries, backgrounds and stages. Whether you are looking for work, trying to figure out what career to pursue, or unsure whether to stay in your current position, Andrea can assist you with these issues and more.
+  
+ 
+
+**![andreaking482014](/images/andreaking482014.jpg)Andrea King, MS, NCC, MCC**  
+Careerful Counseling Services  
+503-997-9506  
+[aking@careerful.com](mailto:aking@careerful.com)  
+[www.careerful.com](http://www.careerful.com)
+
+Andrea assists clients in successfully achieving rewarding employment. She works with a diverse array of adults from all industries, backgrounds and stages. Whether you are looking for work, trying to figure out what career to pursue, or unsure whether to stay in your current position, Andrea can assist you with these issues and more.

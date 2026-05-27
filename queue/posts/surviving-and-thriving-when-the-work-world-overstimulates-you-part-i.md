@@ -5,12 +5,41 @@ date: "2016-11-15 10:19:21"
 categories: ["personal-growth-and-healing", "self-assessment", "support-systems"]
 ---
 
-![head](/images/head.png) image from pexels Do noises at your workplace drain you? Do you get headaches or experience eye strain from the fluorescent lights above your workspace? Is it especially difficult receiving feedback on your performance each year? Perhaps you are highly sensitive. If so, how can you not only survive but thrive in the work world? Highly Sensitive People (HSP’s) prefer processing their experiences more deeply. For HSP’s, their nervous systems and minds are more “fine-tuned”. They notice things others often miss and have stronger emotional reactions, both positive and negative. Noticing so much, feeling more, and thinking about everything to a greater degree means that they also get more easily overstimulated. HSP’s need more down time and are more bothered by things like noise or having too much to do at once, according to Elaine Aron, PhD, Author of “The Highly Sensitive Person”. According to Aron, approximately 20% of people are born with the trait of high sensitivity and it is completely normal. Of the 20%, approximately 70% are socially “introverted”. HSP’s are incredibly conscientious and usually prefer to make decisions slowly. They are easily overstimulated and go out of their way to avoid loud environments, bright lights, course fabrics, and/or perfumes. Highly sensitive people often prefer not having strict deadlines and don’t usually thrive in chaotic environments. They often prefer to work alone and desire to have their own office with a door they can close as needed to reduce stimulation. Working at home is ideal given they have the opportunity to better control their surroundings. ![manatdesk](/images/manatdesk.png) image from pexels Today, typical office settings involve working in an open-plan environment where most employees don’t have the luxury of closing an office door. Cubicle and group workstations are the norm and not productive for most HSP’s. As a first step, try to control your environment to the extent possible with these tips:
+![head](/images/head.png) image from pexels
 
+Do noises at your workplace drain you? Do you get headaches or experience eye strain from the fluorescent lights above your workspace? Is it especially difficult receiving feedback on your performance each year? Perhaps you are highly sensitive. If so, how can you not only survive but thrive in the work world?
+
+Highly Sensitive People (HSP’s) prefer processing their experiences more deeply. For HSP’s, their nervous systems and minds are more “fine-tuned”. They notice things others often miss and have stronger emotional reactions, both positive and negative. Noticing so much, feeling more, and thinking about everything to a greater degree means that they also get more easily overstimulated. HSP’s need more down time and are more bothered by things like noise or having too much to do at once, according to Elaine Aron, PhD, Author of “The Highly Sensitive Person”. According to Aron, approximately 20% of people are born with the trait of high sensitivity and it is completely normal. Of the 20%, approximately 70% are socially “introverted”.
+
+HSP’s are incredibly conscientious and usually prefer to make decisions slowly. They are easily overstimulated and go out of their way to avoid loud environments, bright lights, course fabrics, and/or perfumes. Highly sensitive people often prefer not having strict deadlines and don’t usually thrive in chaotic environments. They often prefer to work alone and desire to have their own office with a door they can close as needed to reduce stimulation. Working at home is ideal given they have the opportunity to better control their surroundings.
+
+![manatdesk](/images/manatdesk.png) image from pexels
+
+Today, typical office settings involve working in an open-plan environment where most employees don’t have the luxury of closing an office door. Cubicle and group workstations are the norm and not productive for most HSP’s. As a first step, try to control your environment to the extent possible with these tips:  
+
+  
 -   Try wearing ear plugs or sound blocking headphones at least part of the time.
+  
 -   How about listening to a **[white noise app](https://play.google.com/store/apps/details?id=com.tmsoft.whitenoise.lite&hl=en)**?
+  
 -   Can you utilize that empty room down the hall as needed? Work from home a few days a week?
+  
 -   If you are comfortable, post a sign near your desk that alerts coworkers of your sensitivity to fragrances, noises, etc.
+  
 -   To reduce light sensitivity, consider purchasing a **[CubeShield](http://www.cubeshield.com/)** if permission is granted by your employer. Let your employer know that a product such as this will improve your productivity.
+  
 
-Deciding whether to tell your supervisor about your sensitivity really depends on how solid your relationship is and how likely you believe s/he can relate to your traits. You may want to think through or write out what you plan to say. It is normal to feel uncomfortable in revealing your sensitivity, but realize it isn’t a negative trait, you simply are more unique and have strengths in areas that some non-HSPs do not. What’s the worst that can happen? This doesn’t necessarily mean s/he is not interested in being of help. It may be that certain products are considered a safety hazard or would not be welcoming to corporate visitors. Brainstorm with your supervisor to see if another solution is viable. For instance, perhaps employees can be alerted when visitors will be present? If you suspect or have a hunch that others at work are highly sensitive, consider getting their feedback. In a world dominated by non-HSP’s, it can be quite a relief to talk to others like yourself to learn how they cope. For more tips on surviving and thriving, stay tuned for Part II! **![andreaking482014](/images/andreaking482014.jpg)** **Andrea Killion, MS, LPC, NCC** Careerful Counseling Services 503-997-9506 | [akillion@careerful.com](mailto:akillion@careerful.com) | www.careerful.com Andrea assists clients in successfully achieving rewarding employment. She works with a diverse array of adults from all industries, backgrounds and stages. Whether you are searching for a meaningful career, trying to gain job offers in a shorter period of time, or unsure whether to stay in your current position, contact Andrea for assistance with these issues and more.
+  
+Deciding whether to tell your supervisor about your sensitivity really depends on how solid your relationship is and how likely you believe s/he can relate to your traits. You may want to think through or write out what you plan to say. It is normal to feel uncomfortable in revealing your sensitivity, but realize it isn’t a negative trait, you simply are more unique and have strengths in areas that some non-HSPs do not.
+
+What’s the worst that can happen? This doesn’t necessarily mean s/he is not interested in being of help. It may be that certain products are considered a safety hazard or would not be welcoming to corporate visitors. Brainstorm with your supervisor to see if another solution is viable. For instance, perhaps employees can be alerted when visitors will be present? If you suspect or have a hunch that others at work are highly sensitive, consider getting their feedback. In a world dominated by non-HSP’s, it can be quite a relief to talk to others like yourself to learn how they cope.
+
+For more tips on surviving and thriving, stay tuned for Part II!
+
+## ![andreaking482014](/images/andreaking482014.jpg)
+
+**Andrea Killion, MS, LPC, NCC**  
+Careerful Counseling Services  
+503-997-9506 | [akillion@careerful.com](mailto:akillion@careerful.com) | www.careerful.com
+
+Andrea assists clients in successfully achieving rewarding employment. She works with a diverse array of adults from all industries, backgrounds and stages. Whether you are searching for a meaningful career, trying to gain job offers in a shorter period of time, or unsure whether to stay in your current position, contact Andrea for assistance with these issues and more.

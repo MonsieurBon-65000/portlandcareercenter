@@ -5,13 +5,21 @@ date: "2013-07-05 12:14:03"
 categories: ["job-search"]
 ---
 
-![](/images/aubrie.jpg "Aubrey De Clerck")**Aubrie De Clerck, CPC** [www.coachingforclarity.net](//www.coachingforclarity.net”) aubrie@coachingforclarity.net 503-810-2907 Aubrie is a Career and Leadership Coach, working both in her own private practice and for Lee Hecht Harrison (an industry-leading talent development organization). Her career history spans corporate, non-profit and self employment, giving her wide perspective on the world of work. Aubrie is known for being highly inspirational and deeply practical, and loves bringing these qualities to sessions with groups and individuals. Most of all, she is passionate about helping people of all ages and phases of life get the most out of their work life.
+![](/images/aubrie.jpg "Aubrey De Clerck")**Aubrie De Clerck, CPC** [www.coachingforclarity.net](//www.coachingforclarity.net”) aubrie@coachingforclarity.net 503-810-2907
 
-**Preparing for a Successful Interview**
+Aubrie is a Career and Leadership Coach, working both in her own private practice and for Lee Hecht Harrison (an industry-leading talent development organization). Her career history spans corporate, non-profit and self employment, giving her wide perspective on the world of work. Aubrie is known for being highly inspirational and deeply practical, and loves bringing these qualities to sessions with groups and individuals. Most of all, she is passionate about helping people of all ages and phases of life get the most out of their work life.  
+
+## Preparing for a Successful Interview
+
+  
 
 When I follow up with clients to see how an interview went, I often hear  - "I _think_ it went well, but I'm not really sure!  I will know when I hear back from them."
 
+  
+
 Waiting to hear back from employers can cause a lot of anxiety, and while I'm a proponent of getting feedback from an employer on interview performance, why wait when you can do some immediate debrief for yourself?
+
+  
 
 The key to doing your own interview debrief is to set an intention before the interview.  Craft an intention focused on something you want to improve upon, or something you already do well that you'd like to really knock out of the park.  Choose a soft skill or a technical skill. It really doesn't matter what it is.  Set a goal that is:
 
@@ -30,7 +38,7 @@ _Let's run this through_.
 1.  Definitely within one's own control.  A great intention if someone tends to talk fast or mumble.
 2.  While we can't measure this by exact tempo without recording interview, we can have a good idea of how we are coming across.  Was I out of breath?  Did I pay attention to my rate of speech? Did I take small breaks for water or breathing?
 
-**Other intentions clients have used successfully:**
+## Other intentions clients have used successfully
 
 -   little reliance on notes
 -   smiling and showing enthusiasm

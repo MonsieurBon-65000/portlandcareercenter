@@ -17,11 +17,11 @@ To develop good questions for your networking, they must meet those two requirem
 
 Similarly, starting a conversation about an area of interest that doesn’t relate to your key insights, abilities and experiences as a professional is a real time waster when you’re networking. It will enable the conversation to wander off in ways that are entertaining but add nothing to the other person’s insights as to how you create impact and results with your talent. At that point you have offered him or her few clues to help them accurately refer you to work or another (more) helpful networking partner to aid your market research.
 
-**Example of Focus of Inquiry vs. Unfocused Networking:**
+## Example of Focus of Inquiry vs. Unfocused Networking
 
 Chris is a corporate training and development professional with an interest in moving her skills from high tech to healthcare. She is introduced to a brain surgeon at a cocktail party and opens the conversation.  First we’ll see the inept way. Second, the focused, strategic way.
 
-**FIRST:**
+## FIRST
 
 _Host:   Chris, I’d like you to meet Jose, a colleague of mine from OHSU. He’s a neurosurgeon up  on the Hill._
 
@@ -31,7 +31,7 @@ _Jose: Well, ah yes, we’ve recently done some cryogenic techniques for the fir
 
 _Chris: Ah, no. Well I was just curious……blah, blah_
 
-**SECOND: A FOCUSED INQUIRY**
+## SECOND: A FOCUSED INQUIRY
 
 _Host: introduces…._
 
@@ -55,4 +55,8 @@ Your Focus of Inquiry. While you’re searching for meaningful work you should n
 
 In my next blog, I’ll discuss why you need a P.I.N.T. to help you build a good networking strategy and focus your inquiry.
 
-![BruceHazenheadshotsm](/images/brucehazenheadshotsm.jpg)**Bruce Hazen, MS** Three Questions Consulting [www.threequestionsconsulting.com](http://www.threequestionsconsulting.com/) [bruce@threequestionsconsulting.com](mailto:bruce@threequestionsconsulting.com) 503-280-0151 Bruce is a career and management coach working with professionals who are at career crossroads and wanting answers and action strategies for one or more of The Three Career Questions: 1. When is it time to move up? 2. When is it time to move out? 3. When is it time to adapt my style for greater success?
+![BruceHazenheadshotsm](/images/brucehazenheadshotsm.jpg)**Bruce Hazen, MS** Three Questions Consulting [www.threequestionsconsulting.com](http://www.threequestionsconsulting.com/) [bruce@threequestionsconsulting.com](mailto:bruce@threequestionsconsulting.com) 503-280-0151 Bruce is a career and management coach working with professionals who are at career crossroads and wanting answers and action strategies for one or more of The Three Career Questions:
+
+1\. When is it time to move up?  
+2\. When is it time to move out?  
+3\. When is it time to adapt my style for greater success?

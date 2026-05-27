@@ -28,4 +28,10 @@ categories: ["job-search"]
 
 #### Remember; always include a Cover Letter with your resume. You won’t necessarily know if it will be read or not.  Why lose out on the opportunity to make your case?
 
-  **![Aly Anliker](/images/aly48.jpg)Aly Anliker, Ed.M** alyanliker@hotmail.com 503-891-1108 Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.
+ 
+
+**![Aly Anliker](/images/aly48.jpg)Aly Anliker, Ed.M  
+**alyanliker@hotmail.com  
+503-891-1108
+
+Aly is a creative organizational and career consultant with over fifteen years of experience in Training Management, Executive Coaching and Instructional Design. She has a background in Human Resources and Marketing and has worked in a variety of industries including telecommunications, high technology, manufacturing and non-profit.

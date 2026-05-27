@@ -5,4 +5,50 @@ date: "2012-11-29 11:48:41"
 categories: ["ages-and-stages", "career-exploration", "support-systems"]
 ---
 
-![](/images/vl_48.jpg "Vicki 48")**Vicki Lind, MS** [www.vlind.com](//www.vlind.com”) vlind@teleport.com 503-284-1115 Vicki helps clients develop vibrant careers in Portland’s creative, sustainable, non-profit, and health-care communities. As a career counselor, she assists with tailoring resumes, practicing interviewing, and honing job-search strategies. As a marketing coach, she facilitates identification of a marketing plan that matches the individual. The Insidious Face of Ageism Ageism is insidious and difficult to confront because hiring managers know that it’s illegal to bring the subject out in the open. Secondly, in many of their hearts, hiring managers may not realize that they are prejudiced. A prevalent myth is that all older people act the same. In fact, research shows that older people are more varied in their abilities and behaviors than any other age group. Remember that the word prejudice itself means that you are judged in advance as part of a group, rather than on your own merits. An employer might prejudge older applicants based on a variety of conscious or unconscious fears: • You may not have the energy needed when things ramp up and deadlines loom. • Health issues may cause greater absenteeism than your younger counterparts. • New technology may be difficult for you to learn. • You may get bored and leave for another job or retire soon. • Your salary expectations will be higher. To prevent you from lagging behind, being more absent, or leaving too soon, the clairvoyant manager thinks that it’s best not to hire you. Or, he or she may think that you are a good fit, but fear that your salary expectations will be higher than a younger counterpart. Wise managers of all ages ask relevant questions of each candidate and his or her references. However, you can’t depend on the people at each stage of the hiring process to ask the questions needed to address their unspoken concerns. Review the tips below to see how you can address these concerns for yourself. Individual coaching sessions can also help you make adjustments to your resumes, research, and networking to offset potential ageism. Tips to Offset Ageism Resumes for People Over Fifty  Go back no more than fifteen years on your resume and leave the dates off of your education.  Avoid mentioning past or expected salaries. If requested say, “glad to discuss when I have more information about the compensation offer."  Get current on and list relevant technology and take off outdated technical terms. Select Age-Friendly Employers  Research to find employers who hire older employees. Consider a casual visit to the place of business, review photos on the website, and ask people in your network for employer suggestions. AARP (www.aarp.org) lists national employers who welcome older workers.  Consider a career largely driven by work samples such as design, writing, and accounting.  Look at services geared toward older people where your ability to relate will be an asset like a geriatric nurse, care manager, or sales associate at an assisted living facility. Do the Inside Job  Examine your own attitudes towards age and your competence in the workplace. It’s vital to reject internalized negative thoughts that may be overgeneralizations. For example, my skills are no longer appreciated.  Reflect on how you feel about your looks, from hairdo to clothing. You’ll want to think about how to dress and how to present yourself energetically. Perhaps a new look will help you feel and present at your best.  Observe your vocabulary, weeding out modifiers that undermine your competence. Eliminate terms like just as in just a secretary, or pretty as in I did a pretty good job of… Network and Get Support  Network effectively since the focus on age fades once people get to know you as an individual for your enthusiasms and skills.  Maximize your time with people who champion your individual skills.  Attend a jobseekers group with older workers such as the 50+Job Seekers Group offered through [Life by Design](http://www.pcc.edu/climb/life/events.html) or [Anne Bryant’s career group](http://www.annebryantcounseling.com/Resources.html) . Interview Strategically  Emphasize the bottom-line contributions that you bring to the business which can offset the employer concern that your compensation will be higher than a younger employer. You are worth it!  Offer examples that demonstrate your energy and your knowledge of current trends.  For more tips of how to offset potential ageism in the interview check out [Interviewing for Women Age 50 and Over](http://vlind.com/interviewing50.html). I have enjoyed greatly the second blooming…suddenly you find—at the age of 50, say—that a whole new life has opened before you. -Agatha Christie
+![](/images/vl_48.jpg "Vicki 48")**Vicki Lind, MS** [www.vlind.com](//www.vlind.com”) vlind@teleport.com 503-284-1115 Vicki helps clients develop vibrant careers in Portland’s creative, sustainable, non-profit, and health-care communities. As a career counselor, she assists with tailoring resumes, practicing interviewing, and honing job-search strategies. As a marketing coach, she facilitates identification of a marketing plan that matches the individual.
+
+The Insidious Face of Ageism
+
+Ageism is insidious and difficult to confront because hiring managers know that it’s illegal to bring the subject out in the open. Secondly, in many of their hearts, hiring managers may not realize that they are prejudiced.
+
+A prevalent myth is that all older people act the same. In fact, research shows that older people are more varied in their abilities and behaviors than any other age group. Remember that the word prejudice itself means that you are judged in advance as part of a group, rather than on your own merits.
+
+An employer might prejudge older applicants based on a variety of conscious or unconscious fears:  
+• You may not have the energy needed when things ramp up and deadlines loom.  
+• Health issues may cause greater absenteeism than your younger counterparts.  
+• New technology may be difficult for you to learn.  
+• You may get bored and leave for another job or retire soon.  
+• Your salary expectations will be higher.
+
+To prevent you from lagging behind, being more absent, or leaving too soon, the clairvoyant manager thinks that it’s best not to hire you. Or, he or she may think that you are a good fit, but fear that your salary expectations will be higher than a younger counterpart. Wise managers of all ages ask relevant questions of each candidate and his or her references.
+
+However, you can’t depend on the people at each stage of the hiring process to ask the questions needed to address their unspoken concerns. Review the tips below to see how you can address these concerns for yourself. Individual coaching sessions can also help you make adjustments to your resumes, research, and networking to offset potential ageism.
+
+Tips to Offset Ageism  
+Resumes for People Over Fifty  
+ Go back no more than fifteen years on your resume and leave the dates off of your education.  
+ Avoid mentioning past or expected salaries. If requested say, “glad to discuss when I have more information about the compensation offer."  
+ Get current on and list relevant technology and take off outdated technical terms.
+
+Select Age-Friendly Employers  
+ Research to find employers who hire older employees. Consider a casual visit to the place of business, review photos on the website, and ask people in your network for employer suggestions. AARP (www.aarp.org) lists national employers who welcome older workers.  
+ Consider a career largely driven by work samples such as design, writing, and accounting.  
+ Look at services geared toward older people where your ability to relate will be an asset like a geriatric nurse, care manager, or sales associate at an assisted living facility.
+
+Do the Inside Job  
+ Examine your own attitudes towards age and your competence in the workplace. It’s vital to reject internalized negative thoughts that may be overgeneralizations. For example, my skills are no longer appreciated.  
+ Reflect on how you feel about your looks, from hairdo to clothing. You’ll want to think about how to dress and how to present yourself energetically. Perhaps a new look will help you feel and present at your best.  
+ Observe your vocabulary, weeding out modifiers that undermine your competence. Eliminate terms like just as in just a secretary, or pretty as in I did a pretty good job of…
+
+Network and Get Support  
+ Network effectively since the focus on age fades once people get to know you as an individual for your enthusiasms and skills.  
+ Maximize your time with people who champion your individual skills.  
+ Attend a jobseekers group with older workers such as the 50+Job Seekers Group offered through [Life by Design](http://www.pcc.edu/climb/life/events.html) or [Anne Bryant’s career group](http://www.annebryantcounseling.com/Resources.html) .
+
+Interview Strategically  
+ Emphasize the bottom-line contributions that you bring to the business which can offset the employer concern that your compensation will be higher than a younger employer. You are worth it!  
+ Offer examples that demonstrate your energy and your knowledge of current trends.  
+ For more tips of how to offset potential ageism in the interview check out [Interviewing for Women Age 50 and Over](http://vlind.com/interviewing50.html).
+
+I have enjoyed greatly the second blooming…suddenly you find—at the age of 50, say—that a whole new life has opened before you.  
+\-Agatha Christie

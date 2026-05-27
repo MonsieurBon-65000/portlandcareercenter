@@ -5,17 +5,46 @@ date: "2016-12-30 11:36:00"
 categories: ["career-transition-strategies", "job-search", "networking"]
 ---
 
-![networking-hands](/images/networking-hands.jpg) Image Courtesy of Pixabay In Part I, the essential task of networking was newly defined as engaging in a dance of reciprocity.  The person with whom you are conducting the informational interview gives you ideas, leads, and connections. In turn, reciprocity requires that you offer them something in return. **So what do you have to offer?**  According to [_The Heart & Art of NetWeaving_](https://www.amazon.com/Heart-Art-NetWeaving-Meaningful-Relationships/dp/156352726X), the help you provide comes in two forms:
+![networking-hands](/images/networking-hands.jpg) Image Courtesy of Pixabay
 
-1.  Being a strategic connector of other people—helping create “win-win” relationships between two or more other persons, _a strategic matchmaker;_
-2.  Being a _strategic resource provider_ for others—helping them find solutions to their needs and problems, as well as ways to help them take advantage of ideas or opportunities they have, but which, without someone else’s help, will never materialize into anything of consequence.
+In Part I, the essential task of networking was newly defined as engaging in a dance of reciprocity.  The person with whom you are conducting the informational interview gives you ideas, leads, and connections. In turn, reciprocity requires that you offer them something in return.
 
-Perhaps you have never thought of yourself as a resource for others, or are unsure of what to offer.  How about your current or even rusty skills?  Or, what things should you be doing, or doing better, to help you develop those skills?  For instance, while I have offered my photography skills for weddings, group photos, and headshots, I am working to develop my photo editing skills so that I can better answer frequent how-to questions. Another way to contribute is to think about who is in your resource network.  These are people whom you could trust referring to your new informational interview contact.  Similar to my photography skill, I also have three photographer referrals that I can give to clients who I know offer LinkedIn headshots of exceptional quality for a reasonable price. If your network is only a few people wide and deep, put some effort into building your “trusted resource network.”  You might start by entering into your contact manager or phone the names of your favorite restaurants, independent auto mechanics, home remodelers, veterinarians, housecleaners, window washers, self-help books, real estate agents, insurance brokers, financial advisors, etc. so you have a ready means to access and share your growing network. Understand that a complete resource network does not need to be in place before you start networking—you just want to be thinking “how can I help in return?”  Even if nothing jumps out at you to offer during the first meeting or two, there is always the all-important follow up email or card, and you can offer future help. **More on follow up**.  In my last post, I stressed the importance of follow up to complete the cycle of reciprocity.  Here are some details about how to best accomplish that.  After meeting, email your appreciation for the informational interview, summarize the key points you discussed, and note any salient takeaways for you.  You could also include:
+**So what do you have to offer?**  According to [_The Heart & Art of NetWeaving_](https://www.amazon.com/Heart-Art-NetWeaving-Meaningful-Relationships/dp/156352726X), the help you provide comes in two forms:  
 
+  
+2.  Being a strategic connector of other people—helping create “win-win” relationships between two or more other persons, _a strategic matchmaker;_
+  
+4.  Being a _strategic resource provider_ for others—helping them find solutions to their needs and problems, as well as ways to help them take advantage of ideas or opportunities they have, but which, without someone else’s help, will never materialize into anything of consequence.
+  
+
+  
+Perhaps you have never thought of yourself as a resource for others, or are unsure of what to offer.  How about your current or even rusty skills?  Or, what things should you be doing, or doing better, to help you develop those skills?  For instance, while I have offered my photography skills for weddings, group photos, and headshots, I am working to develop my photo editing skills so that I can better answer frequent how-to questions.
+
+Another way to contribute is to think about who is in your resource network.  These are people whom you could trust referring to your new informational interview contact.  Similar to my photography skill, I also have three photographer referrals that I can give to clients who I know offer LinkedIn headshots of exceptional quality for a reasonable price.
+
+If your network is only a few people wide and deep, put some effort into building your “trusted resource network.”  You might start by entering into your contact manager or phone the names of your favorite restaurants, independent auto mechanics, home remodelers, veterinarians, housecleaners, window washers, self-help books, real estate agents, insurance brokers, financial advisors, etc. so you have a ready means to access and share your growing network.
+
+Understand that a complete resource network does not need to be in place before you start networking—you just want to be thinking “how can I help in return?”  Even if nothing jumps out at you to offer during the first meeting or two, there is always the all-important follow up email or card, and you can offer future help.
+
+**More on follow up**.  In my last post, I stressed the importance of follow up to complete the cycle of reciprocity.  Here are some details about how to best accomplish that.  After meeting, email your appreciation for the informational interview, summarize the key points you discussed, and note any salient takeaways for you.  You could also include:  
+
+  
 -   An article on an interesting topic you discussed (I often send business journal or blog articles), or even some additional points to show you remembered some of the details you discussed.
+  
 -   The names of people you discovered you knew in common or things or interests you found you had in common
+  
 -   The names of people with whom you both agreed you might be able to connect each other
+  
 -   A list of resources you could provide each other
+  
 -   A personalized request to join one another’s network on LinkedIn
+  
 
-These follow up to-do’s are all related to helping your new acquaintance and playing your part in the returning cycle of reciprocity. Reciprocity is a powerful tool that can have wider-reaching effects, too.  One [author](https://www.amazon.com/Seven-Whispers-Spiritual-Practice-Times/dp/1577315057) I respect elevates this resource exchange to a form of _spiritual practice_: “When we ask for what we need and offer each other what we can, we become spiritual traders of life’s energy, time, abundance, and inter-relatedness.” In this way, engaging in "networking _plus"_ changes your perception of the way the world works: and in so doing, giving back to those individuals who advise you takes your career to a whole new level. ![latest square crop 48](/images/latest-square-crop-48.jpg) **Dave Gallison, MS, LPC** [dave@gallisonconsulting.com](mailto:dave@gallisonconsulting.com) [www.gallisonconsulting.com](http://www.gallisonconsulting.com) 503-704-7796 Dave specializes in a short term, action-oriented approach to providing career management solutions to clients seeking to choose, change or advance their careers and reach their professional and personal potential. His unique strength as a career counselor is preparing you for informational interviews and directly assisting you in gaining access to employed contacts within desired organizations.
+  
+These follow up to-do’s are all related to helping your new acquaintance and playing your part in the returning cycle of reciprocity.
+
+Reciprocity is a powerful tool that can have wider-reaching effects, too.  One [author](https://www.amazon.com/Seven-Whispers-Spiritual-Practice-Times/dp/1577315057) I respect elevates this resource exchange to a form of _spiritual practice_: “When we ask for what we need and offer each other what we can, we become spiritual traders of life’s energy, time, abundance, and inter-relatedness.”
+
+In this way, engaging in "networking _plus"_ changes your perception of the way the world works: and in so doing, giving back to those individuals who advise you takes your career to a whole new level.
+
+![latest square crop 48](/images/latest-square-crop-48.jpg) **Dave Gallison, MS, LPC** [dave@gallisonconsulting.com](mailto:dave@gallisonconsulting.com) [www.gallisonconsulting.com](http://www.gallisonconsulting.com) 503-704-7796 Dave specializes in a short term, action-oriented approach to providing career management solutions to clients seeking to choose, change or advance their careers and reach their professional and personal potential. His unique strength as a career counselor is preparing you for informational interviews and directly assisting you in gaining access to employed contacts within desired organizations.

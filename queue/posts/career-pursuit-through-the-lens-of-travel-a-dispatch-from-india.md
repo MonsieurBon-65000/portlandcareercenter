@@ -7,31 +7,65 @@ categories: ["career-transition-strategies", "personal-growth-and-healing"]
 
 ![](/images/lrg_dsc00757.jpg)Comparing and contrasting with another culture can be a useful exercise as you look at where you are and where you would like to be in your career. My recent travel to India yielded numerous insights as I witnessed, conversed about and even attempted to practice some local approaches to both everyday life and careers.
 
+  
+
 Picture me a world away, walking in a city in South India: I’m overwhelmed first by the crush of vehicles and noise pollution: motorcycles, three-wheeled tuk-tuks and micro cars incessantly beep at me and swerve away.  All the while, sweat pours down my forehead in the humid hot air choked by burning trash. Mosquito bites rage at my ankles as I pick my way around all the garbage, dodge cows and cow dung.
+
+  
+
+  
 
 Just when I think I can’t take traffic and bodies to the max any more, it all changes in an instant. Among the throngs of faces there appears an Indian girl in brilliantly-colored sari who takes a moment to meet my harried gaze with a calm and present-centered smile. Then I stop to hear an engineer share his pure passion for traditional _bharantanatyam_ dance, I take a deep breath, and my once-agitated heart feels connected out of nowhere and not so far from home.
 
+  
+
 These street images are not just reflective of how congested Indian cities are, but how Indian people are resourceful and manage what to a Westerner is unbelievable chaos in everyday life. They are also sustained by tradition and spirituality that I barely begin to grasp in my short time here. This traveler is out of his comfort zone, and awed by “incredible India” in all its starkness and beauty.
 
-**The struggle to find work.**  Upon arrival in India at Chennai (a Southern coast city of over 10M), as we drive to the first lodge in the outskirts, stark images continue to appear: I observe many people in green fields squatting and planting rice, collecting and making cow dung into patties, or sitting in cramped dirt floor roadside stalls selling vegetables or goods—people are largely self-employed.  Outside the cities, where 70% of people live, there are signs everywhere that this is a very old civilization, and certain age-old ways hold sway over how people live and earn their livelihood.
+  
+
+## The struggle to find work
+
+Upon arrival in India at Chennai (a Southern coast city of over 10M), as we drive to the first lodge in the outskirts, stark images continue to appear: I observe many people in green fields squatting and planting rice, collecting and making cow dung into patties, or sitting in cramped dirt floor roadside stalls selling vegetables or goods—people are largely self-employed.  Outside the cities, where 70% of people live, there are signs everywhere that this is a very old civilization, and certain age-old ways hold sway over how people live and earn their livelihood.
+
+  
 
 At the hotel, many of those who are employed do the most menial of activities all day—sweeping the walks by hand brush or scrubbing the tiles on the footpaths of the hotel property by hand, or tending to continual washroom maintenance—overall at least 4 - 5 times as many personnel as a US hotel, including many dressed in uniforms and redundantly standing by to help. I ask the manager if there are adequate employment opportunities across the country of 1.3B people given the high level of impoverishment in India and he shrugs and frankly responds, "it is possible to have enough work for a full belly."
 
+  
+
 These essential jobs in India that keep people alive might be referred to in the North American world as make-work or survival jobs.  The existing backdrop of high poverty and still-prevalent subsistence farming, historic class (caste system) and gender discrimination, and low education attainment make it difficult to enter the formal labor market. There, the other half of workers are in more professional roles in the public and private organized sectors, but signs of strain exist as well. One red flag I read about in _The Hindu_ daily paper concerns unemployment cresting at the highest level in 45 years, which particularly affects tens of millions of young educated adults who see diminished opportunities to enter the formal labor market and the growing middle class.
+
+  
 
 Certain assumptions Westerners hold about making one's way in life are simply fictions in India.  For instance, at lunch with several college students, I learn that it is very difficult to change one's major in college, and almost unthinkable to change one's career once you are in a particular role or field.  One of the primary pressures owes to still-heavy parental expectations, and this duty to family usually overrides personal wishes. For that reason, these four students all chose to attend college in a different city than their homes, and they are upbeat about their futures.
 
+  
+
 Putting distance between one’s family and college is but one example of how Indians increasingly adapt and use ingenuity to find their own way. One 19-year-old young man confided that he had begun to doubt the choice to major in physics and as a result of some volunteer work had come across the possibility that career for him might have a “calling” (his word!) that was closer to social work. Western career entry and progression appears decidedly more open and fluid; at the same time, how might we use Indian ingenuity and persistence to find workarounds to the obstacles in our lives if we choose to pursue more rewarding or meaningful work?
+
+  
 
 **Y****oga: wisdom from how life works**.  ![](/images/headstand.png)As part of this sightseeing and cultural immersion trip, we had daily morning yoga practice with Indian yoga teacher [Mukesh Banka](http://www.urbanyogi.co.in/). From the outset he did not make us assume picture-perfect postures like we may see in US group classes, but helped us learn approximations of a pose that are appropriate to each person's age, body type or level of fitness.
 
+  
+
 In this way, he promotes acceptance and affection for one’s body, just as it is. He will demonstrate on himself, then physically lift your ribs or obliques into place so you get the feel and confidence to proceed (hey, the world looks upside down—me at right). He is always talking and encouraging, and conveys wisdom applicable to yoga and even career transition: "The point is to keep making mistakes so you can continue learning."
+
+  
 
 Mukesh emphasizes breathing with awareness, progressing from the belly into the chest, which helps you relax into the stretch and enhances the benefit of the pose.   In the final "resting" pose, Mukesh reinforces continued focus on breathing and relaxation of muscles so that body awareness fades away, sometimes followed by quietness of mind—if only for a moment! Applied to the "stretch" of a challenging job search, focusing on one's posture and breathing throughout the day can help bring us back into a momentary awareness and appreciation of life. Similarly, this highly-individualized approach to yoga practice resonates with not striving to always reference others, even copy other’s career paths, but seeking your own best fit.
 
+  
+
 **Lessons from India**.  Amidst India’s spectacular sites, warmly hospitable people, and exquisite food, I am also awed by how the people create manageable order from complexity. It has been eye-opening to briefly live inside the difficulties of their daily reality. Like Indians who deal with huge barriers to career entry and even negotiate chaotic daily traffic, our task in the US to move our lives and careers forward is to _outsmart and outlast what gets in the way_.
 
+  
+
 Contrasting with another culture, it may help us persevere through obstacles to have perspective on and appreciate our society’s relative privileges and ease of movement in personal and professional life. Certainly, whatever our struggles are along the way as human beings, I can attest to the value of adopting the age-old practice of yoga to quiet body and mind—and one’s heart!  
+
+  
+
+  
 
 **![](/images/latest-square-crop-48.jpg)Dave Gallison, MS, LPC**  
 [dave@gallisonconsulting.com](mailto:dave@gallisonconsulting.com)  

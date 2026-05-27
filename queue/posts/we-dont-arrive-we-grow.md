@@ -5,26 +5,65 @@ date: "2018-11-27 12:55:56"
 categories: ["ages-and-stages", "personal-growth-and-healing", "spirituality"]
 ---
 
-![](/images/purpose-image.jpg)It’s common for any of us to become dissatisfied with work.   Whether we’re simply no longer happy or there is a longing for more meaning, it behooves us to address unhappiness at work and prevent it from spilling over to the rest of our lives. While work will never meet _all_ our needs for personal happiness or fulfillment in life, many of us are interested in having a sense of larger purpose in what we do. Seeing, _really seeing_, how we view work in our lives, may reveal what limits our satisfaction and at the same time, open us to ways to increase happiness and meaning. **Three mindsets about work**. Think about which you fall into right now:
+![](/images/purpose-image.jpg)It’s common for any of us to become dissatisfied with work.   Whether we’re simply no longer happy or there is a longing for more meaning, it behooves us to address unhappiness at work and prevent it from spilling over to the rest of our lives.
 
+While work will never meet _all_ our needs for personal happiness or fulfillment in life, many of us are interested in having a sense of larger purpose in what we do.
+
+Seeing, _really seeing_, how we view work in our lives, may reveal what limits our satisfaction and at the same time, open us to ways to increase happiness and meaning.
+
+**Three mindsets about work**. Think about which you fall into right now:  
+
+  
 -   _It’s just a job_: You perform duties in return for compensation; it may or may not be stimulating, and is not related to a broader sense of life purpose.  This can be by choice or circumstance—you need the income.  It’s about the job.
+  
 
+  
+
+  
 -   _It’s a career_: You focus on achieving success in your field, whether by advancing salary, title, power, team size and/or extent of control.  These achievements are often taken as a validation of self-worth—it’s about me.
+  
 
+  
+
+  
 -   _It’s tied to larger purpose_: Your job or career is interwoven with a sense of life purpose—a vocation or a calling, the professional is aligned with the personal.  You feel inspired, innovative and engaged in co-creating a workplace that serves and benefits everyone.  It’s _larger_ than me—a cause, values, the gift you will leave behind for the world.
+  
 
-Each mindset has various challenges and consequences.  Moving between them towards larger purpose tends to bring a sense of greater awareness and healthy identity.  In “larger purpose,” we feel less constricted by the circumstances of the workplace than the prior levels, and increasingly free to be in the moment in a positive and balanced way. **Finding and Re-Finding Purpose**.  So what does it mean to adopt a larger purpose approach to work and how does one arrive at it? To begin with, it’s not enough to find your sense of purpose once _— ah hah!_  No, it seems that you have to find your truest self over and over again as circumstances (and you) change.  Fittingly, Mark Nepo entitled his latest book _Endless Practice_ and suggests, “we don’t arrive, we grow.” Such growth requires ongoing awareness and checking in about how we as individuals experience and draw meaning from our work over the course of our moments and days.  And, regardless of the path to greater wisdom we choose, it is appreciating that we, “are part of something larger than ourselves….our connection to a living Universe.”  (Nepo) Indeed, finding our way may be at once deeper and more immediate than we think and may involve alternating periods of suffering and of wonder—all reminding us that we are part of something larger than ourselves. Perhaps this client vignette illustrates the ongoing journey to a perspective of work infused with larger purpose:
+  
+Each mindset has various challenges and consequences.  Moving between them towards larger purpose tends to bring a sense of greater awareness and healthy identity.  In “larger purpose,” we feel less constricted by the circumstances of the workplace than the prior levels, and increasingly free to be in the moment in a positive and balanced way.
+
+**Finding and Re-Finding Purpose**.  So what does it mean to adopt a larger purpose approach to work and how does one arrive at it? To begin with, it’s not enough to find your sense of purpose once _— ah hah!_  No, it seems that you have to find your truest self over and over again as circumstances (and you) change.  Fittingly, Mark Nepo entitled his latest book _Endless Practice_ and suggests, “we don’t arrive, we grow.”
+
+Such growth requires ongoing awareness and checking in about how we as individuals experience and draw meaning from our work over the course of our moments and days.  And, regardless of the path to greater wisdom we choose, it is appreciating that we, “are part of something larger than ourselves….our connection to a living Universe.”  (Nepo)
+
+Indeed, finding our way may be at once deeper and more immediate than we think and may involve alternating periods of suffering and of wonder—all reminding us that we are part of something larger than ourselves.
+
+Perhaps this client vignette illustrates the ongoing journey to a perspective of work infused with larger purpose:  
 
 _It’s my Purpose_:  Ann was drawn to HR because of the centrality of the role in sustaining an organization and interfacing between management and employees.  She worked in HR roles ranging from generalist to manager in several different businesses, and gained experience in such key areas as recruitment, compensation and benefits.
 
+  
+
 An aspiring professional, Ann validated her expertise by progressively putting in her hours and extra training to qualify for SPHR certification.  As she rose in the ranks of one high tech organization, however, she began to encounter dispassionate and unethical senior leaders.  It was one of these bad bosses who decided to terminate Ann.
+
+  
 
 Around that time of job loss, Ann’s husband was diagnosed with a severe form of cancer with a low survival rate.  This news was overwhelming and led to great heartache.  While acceptance doesn’t happen overnight, it can sometimes be in these vulnerable moments that a sense of deeper meaning in life arises.
 
+  
+
 This hard-found wisdom was progressively evident in Ann as we met in the first session to explore and land a new HR position, and by the fifth session, to explore what she identified as “wanting purpose.” We elaborated a purpose statement on how she could genuinely make a difference in the lives of others, increase her sense of inner well-being at work, and even infuse her moments there with deeper meaning.
 
-Similarly, I summarized my transition from job to purpose in my last blog about purpose:  _These days I experience un-pressured time with clients I never felt as an employee.  I coach, encourage and help people make connections that are valuable to them.   For me, this is not so much work with passion, as expressing a larger passion for this “wild and precious life.”_ The happiness or meaning quotient at work may not be simply answered, or at least answered once and for all.  The quest for finding the answers within and living them is more of an endless practice.  This is ultimately good news because it means we can develop the inner skills to face and find meaning, over and over, in what we are given in our lives and work.
+  
+Similarly, I summarized my transition from job to purpose in my last blog about purpose:  _These days I experience un-pressured time with clients I never felt as an employee.  I coach, encourage and help people make connections that are valuable to them.   For me, this is not so much work with passion, as expressing a larger passion for this “wild and precious life.”_
+
+The happiness or meaning quotient at work may not be simply answered, or at least answered once and for all.  The quest for finding the answers within and living them is more of an endless practice.  This is ultimately good news because it means we can develop the inner skills to face and find meaning, over and over, in what we are given in our lives and work.  
 
 _No one can construct the bridge upon which precisely you must cross the stream of your life, but you._  ~Friedrick Nietzsche
 
-**![](/images/latest-square-crop-48.jpg)Dave Gallison, MS, LPC** [dave@gallisonconsulting.com](mailto:dave@gallisonconsulting.com) [www.gallisonconsulting.com](http://www.gallisonconsulting.com) 503-704-7796 Dave specializes in a short term, action-oriented approach to providing career management solutions to clients seeking to choose, change or advance their careers and reach their professional and personal potential. His unique strength as a career counselor is preparing you for informational interviews and directly assisting you in gaining access to employed contacts within desired organizations.
+  
+**![](/images/latest-square-crop-48.jpg)Dave Gallison, MS, LPC**  
+[dave@gallisonconsulting.com](mailto:dave@gallisonconsulting.com)  
+[www.gallisonconsulting.com](http://www.gallisonconsulting.com)  
+503-704-7796  
+Dave specializes in a short term, action-oriented approach to providing career management solutions to clients seeking to choose, change or advance their careers and reach their professional and personal potential. His unique strength as a career counselor is preparing you for informational interviews and directly assisting you in gaining access to employed contacts within desired organizations.
