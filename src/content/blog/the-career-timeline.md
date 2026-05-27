@@ -70,7 +70,7 @@ Go through the other categories: Do you hope to finish some significant projects
 Counselors often have three questions we help people with: “Where are you now? Where do you want to go? How can we help you get there?” The career/life timeline is a perfect tool for helping people start drawing the map of their past that might help decide their future, while escaping the rigidity of the resume.  
 
 ![AaronGood60](/images/aarongood60.jpg)  
-Aaron Good, MS, CRC, LPC Intern
+Aaron Good, MS, CRC, LPC, CCC
 
   
 

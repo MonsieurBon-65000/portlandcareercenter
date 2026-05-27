@@ -58,7 +58,7 @@ Taking an active role in managing your career - _even when you’re comfortable_
 
    
 
-![AaronGood60](/images/aarongood60.jpg)Aaron Good, MS, CRC, LPC Intern
+![AaronGood60](/images/aarongood60.jpg)Aaron Good, MS, CRC, LPC, CCC
 
   
 
