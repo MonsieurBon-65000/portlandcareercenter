@@ -20,6 +20,10 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    # Cap a hung job. Without this GitHub's default is 360 minutes, and one
+    # stall burns 18% of the account-wide 2,000-minute free tier -- which is
+    # exactly what happened on 2026-08-17. Sized off observed runtime: p95 0.4 min.
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
